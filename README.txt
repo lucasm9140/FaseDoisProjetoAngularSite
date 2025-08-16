@@ -1,4 +1,4 @@
-🎮 # Loja de Jogos - Angular
+# 🎮 Loja de Jogos - Angular
 
 
 
@@ -23,16 +23,16 @@
 ## 📁 Estrutura do Projeto
 projeto-angular/
 ├── src/app/
-│   ├── inicio/               # Página inicial
-│   ├── produtos/             # Wrapper de produtos
-│   ├── lista-produtos/       # Lista de produtos
-│   ├── cadastro-produto/     # Formulário de cadastro
-│   ├── produto.service.ts    # Serviço CRUD
-│   └── app-routing.module.ts # Rotas
-├── assets/                   # Imagens e recursos
-├── db.json                    # Banco de dados fake
-├── server.js                  # JSON Server
-└── package.json               # Dependências
+│   ├── inicio/               * Página inicial
+│   ├── produtos/             * Wrapper de produtos
+│   ├── lista-produtos/       * Lista de produtos
+│   ├── cadastro-produto/     * Formulário de cadastro
+│   ├── produto.service.ts    * Serviço CRUD
+│   └── app-routing.module.ts * Rotas
+├── assets/                   * Imagens e recursos
+├── db.json                    * Banco de dados fake
+├── server.js                  * JSON Server
+└── package.json               * Dependências
 
 ## ⚡ Tecnologias
 
@@ -107,4 +107,5 @@ projeto-angular/
 
 
 MIT Licens
+
 
