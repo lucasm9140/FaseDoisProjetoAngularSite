@@ -1,4 +1,4 @@
-# 🎮 Loja de Jogos - Angular
+🎮 # Loja de Jogos - Angular
 
 
 
@@ -107,3 +107,4 @@ projeto-angular/
 
 
 MIT Licens
+
